@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", serif;
+}
+
+
+/* header-section */
+.header{
+    background-color: #FFF1ED;
+    height: 798px;
+    width: 1857px;
+}
+
+#main-logo{
+    height: 27px;
+    width: 27px;
+}
+
+.container{
+    height: 114px;
+    display: flex;
+    align-items: center;
+    top: 24px;
+    margin-left: 120px;
+    gap: 65px;
+}
+
+#logo-name{
+    margin-left: 10px;
+}
+
+/* navigation-links */
+.nav-links a{
+    text-decoration: none;
+    color: #808080;
+    justify-content: space-around;
+    font-weight: 400;
+    font-size: 1.2em;
+}
+
+.nav-links{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+
+}
+
+#about-link{
+    color: #EB6E46;
+    font-weight: 700;
+}
+
+/* mid-contect */
+#header-content{
+    width: 578px;
+    height: 347px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.head-main{
+   height: 345px;
+}
+
+.head-main h1{
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.head-main span{
+    font-weight: 500;
+    font-size: 20px;
+    font-family: Inter; 
+    margin-top: 10px;
+}
+
+.span-desc{
+    margin-top: 15px;
+    font-weight: 500;
+    color: #808080;
+}
+
+#btn-free{
+    background-color: #EB6E46;
+    border-radius: 100px;
+    margin-top: 50px;
+    width: 182px;
+    height: 56px;
+    padding-top: 16px;
+    padding-left:32px ;
+    padding-right:32px;
+    padding-bottom: 16px;
+    font-size: 1em;
+    color: white;
+    font-weight: 500px;
+    outline: none;
+    border: none;
+}
+
+/* right-image */
+
+ #r-logo{
+    height: 684px;
+    width: 483px;
+    margin-left: 1195px;
+    margin-top: -511px;
+    border-bottom-right-radius: 241.5px;
+    border-bottom-left-radius: 241.5px;
+    position: relative;
+}
+
+#overview-logo{
+    height: 333px;
+    width: 385px;
+    position: absolute;
+    margin-left:-267px ;
+    margin-top:-282px ;
+   
+}
+
+#customer-logo{
+    width: 328px;
+    height: 347px;
+    border-radius: 8px;
+    position: absolute;
+    margin-left:-578px ;
+    margin-top:-51px ;
+    
+} 
