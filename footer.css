@@ -22,7 +22,7 @@
     height: 7.25rem;
     width:19.563rem;
     margin-top:5em;
-    margin-left: 7.5em;
+    margin-left: 4.5em;
     font-weight: 700;
     font-size: 1.5em;
 }
@@ -44,20 +44,22 @@
 
 .bottom{
     border-bottom: 1px solid #878787;
-    width: 22.063rem;
+    width: 17.063rem;
     margin-left: 7.5em;
 }
 
 .join-btn{
     background-color: #EB6E46;
     border-radius: 6.25em;
-    padding: 0.625em 2.5em;
-    margin-left: 23.938em;
+    /* padding: 0.625em 2.5em; */
+    padding: 1em 2em; 
+    margin-left: 19.938em;
     font-size: 1.125em;
     color: white;
     font-weight: 700;
     outline: none;
     border: none;
+    width: 10.375rem;
 }
 
 .question-arrow{
@@ -77,7 +79,7 @@
 
 .border-line{
     margin-top: 0.938em;
-    border: 1px solid #878787;
+    border: 1px solid #D6D6D6;
     /* width: 401px; */
 }
 
@@ -89,8 +91,8 @@
 }
 
 #border-footer{
-    border: 1px solid #808080;
-    width: 75rem;
+    border: 1px solid #D6D6D6;
+    width: 90rem;
     margin-left: 10em;
     margin-top: 6.563em;
 }
@@ -113,14 +115,19 @@
 .right-top h3{
     font-size: 1.5em;
     font-weight: 700;
+    margin-top: 1.875em;
 }
 
 .footer-link{
     display: flex;
-    margin-left: 10cap;
+    margin-left: 8em;
     gap: 1.25rem;
 }
 
 .link-end{
     margin-left: auto;
+}
+
+.arrow-head{
+    color:#757B8A ;
 }
