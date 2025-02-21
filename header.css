@@ -3,32 +3,33 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Roboto", serif;
+    /* border: 1px solid red; */
 }
 
 
 /* header-section */
 .header{
     background-color: #FFF1ED;
-    height: 798px;
-    width: 1857px;
+    height: 49.875rem;
+    width: 117.188rem;
 }
 
 #main-logo{
-    height: 27px;
-    width: 27px;
+    height: 1.688rem;
+    width: 1.688rem;
 }
 
 .container{
-    height: 114px;
+    height: 7.125rem;
     display: flex;
     align-items: center;
-    top: 24px;
-    margin-left: 120px;
-    gap: 65px;
+    top: 1.5rem;
+    margin-left: 7.5em;
+    gap: 4.063rem;
 }
 
 #logo-name{
-    margin-left: 10px;
+    margin-left: 0.625em;
 }
 
 /* navigation-links */
@@ -43,7 +44,7 @@
 .nav-links{
     display: flex;
     align-items: center;
-    gap: 32px;
+    gap: 2em;
 
 }
 
@@ -54,47 +55,46 @@
 
 /* mid-contect */
 #header-content{
-    width: 578px;
-    height: 347px;
-    margin-left: 120px;
-    margin-top: 50px;
+    width: 36.125rem;
+    height: 21.688rem;
+    margin-left: 7.5em;
+    margin-top: 3.125em;
 }
 
 .head-main{
-   height: 345px;
+   height: 21.563rem;
 }
 
 .head-main h1{
     font-weight: 700;
-    font-size: 70px;
+    font-size: 4.375em;
 }
 
 .head-main span{
     font-weight: 500;
-    font-size: 20px;
-    font-family: Inter; 
-    margin-top: 10px;
+    font-size: 1.25em;
+    margin-top: 0.625em;
 }
 
 .span-desc{
-    margin-top: 15px;
+    margin-top: 0.938rem;
     font-weight: 500;
     color: #808080;
 }
 
 #btn-free{
     background-color: #EB6E46;
-    border-radius: 100px;
-    margin-top: 50px;
-    width: 182px;
-    height: 56px;
-    padding-top: 16px;
-    padding-left:32px ;
-    padding-right:32px;
-    padding-bottom: 16px;
+    border-radius: 6.25em;
+    margin-top: 3.125em;
+    width: 11.375rem;
+    height: 3.5em;
+    padding-top: 1em;
+    padding-left:2rem ;
+    padding-right:2rem;
+    padding-bottom: 1em;
     font-size: 1em;
     color: white;
-    font-weight: 500px;
+    font-weight: 500;
     outline: none;
     border: none;
 }
@@ -102,30 +102,30 @@
 /* right-image */
 
  #r-logo{
-    height: 684px;
-    width: 483px;
-    margin-left: 1195px;
-    margin-top: -511px;
-    border-bottom-right-radius: 241.5px;
-    border-bottom-left-radius: 241.5px;
+    height: 42.75rem;
+    width: 30.188rem;
+    margin-left: 74.688em;
+    margin-top: -31.938em;
+    border-bottom-right-radius: 15.094rem;
+    border-bottom-left-radius: 15.094rem;
     position: relative;
 }
 
 #overview-logo{
-    height: 333px;
-    width: 385px;
+    height: 20.813rem;
+    width: 24.063rem;
     position: absolute;
-    margin-left:-267px ;
-    margin-top:-282px ;
+    margin-left:-16.688em ;
+    margin-top:-17.625em ;
    
 }
 
 #customer-logo{
-    width: 328px;
-    height: 347px;
-    border-radius: 8px;
+    width: 20.5rem;
+    height: 21.688rem;
+    border-radius: 0.5em;
     position: absolute;
-    margin-left:-578px ;
-    margin-top:-51px ;
+    margin-left:-36.125em ;
+    margin-top:-3.188rem ;
     
 } 

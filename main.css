@@ -8,21 +8,21 @@
 
 /* content-section */
 #main-content{
-    width: 1857px;
-    height: 659px;
+    width: 116.063rem;
+    height: 41.125rem;
 }
 /* advertise-section */
 #advertise-content{
-    width: 1857px;
-    height: 247px;
+    width: 116.063em;
+    height: 15.438rem;
 }
 
 .advertise-banner{
-    width: 1696px;
-    height: 96px;
-    margin-top: 75px;
-    margin-left: 88px;
-    gap: 20px;
+    width: 106rem;
+    height: 6rem;
+    margin-top: 4.688rem;
+    margin-left: 5.5rem;
+    gap: 1.25em;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -31,37 +31,36 @@
 
 /* feature-section */
 .content{
-    width: 948px;
-    height: 463px;
+    width: 59.35rem;
+    height: 28.938rem;
     /* background-color: burlywood; */
-    margin-top: 2px;
+    margin-top: 0.125em;
     margin: auto;
-    /* margin-left: 480px; */
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 40px;
+    margin-bottom: 3.063rem;
 
 }
 
 
 .cards{
-    margin-top: 50px;
-    width: 949px;
-    height: 291px;
+    margin-top: 3.125em;
+    width: 59.313rem;
+    height: 18.188rem;
     /* background-color: cornflowerblue; */
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 60px;
+    gap: 3.75em;
 }
 
 .icon{
-    width: 276px;
-    height: 291px;
-    padding: 24px;
-    /* gap: 56px; */
+    width: 17.25rem;
+    height: 18.188rem;
+    padding: 1.5em;
+    /* gap: 3.5em; */
 }
 
 
@@ -71,17 +70,17 @@
 
 
 .icon-details{
-    margin-top: 40px;
+    margin-top: 2.5em;
     /* align-items: flex-start; */
 }
 
 .details{
-   margin-top: 20px;
+   margin-top:1.25em;
 }
 
 .icon-logo{
-    width: 56px;
-    height: 56px;
+    width: 3.5em;
+    height: 3.5em;
     background-color: #EB6E46;
     border-radius: 8px;
     align-items: center;
@@ -91,51 +90,52 @@
 
 /* about-website */
 
-.about-website{
-    width: 1857px;
-    height: 725px;
+#website-section{
+    width: 116.063em;
+    height: 45.313rem;
     background-color: #FFF1ED;
 }
 
 #left-logo{
-    height: 565px;
-    width: 378px;
-    border-radius: 189px;
-    margin-top: 80px;
-    margin-left: 120px;
+    height: 35.313rem;
+    width: 23.625rem;
+    border-radius: 11.813rem;
+    margin-top: 5em;
+    margin-left: 7.5em;
     position: relative;
 }
 
 #team-logo{
-    width: 534px;
-    height: 263px;
-    border-radius: 16px;
-    margin-top: 428px;
-    margin-left: -341px;
+    width: 33.375rem;
+    height: 16.438rem;
+    border-radius: 1em;
+    margin-top: 26.75em;
+    margin-left: -21.313em;
     position: absolute;
 }
 
 #play-icon{
     position: absolute;
-    margin-top: 332px;
-    margin-left: -221px;
+    margin-top: 20.75em;
+    margin-left: -13.813em;
 }
 
 .web-desc{
-    width: 546px;
-    height: 422px;
-    margin-top: -571px;
-    margin-left: 1077px;
+    width: 34.063rem;
+    height: 26.375rem;
+    margin-top: -26.688em;
+    margin-left: 67.313em;
     /* background-color: cadetblue; */
 }
 
 .web-desc h1{
     font-weight: 700;
-    font-size: 45px;
+    font-size: 2.813em;
 }
 
 .span-desc{
-    margin-top: 39px;
+    margin-top: 2.438em;
+    
     font-weight: 500;
     color: #808080;
 }
@@ -146,45 +146,45 @@
 }
 
 .rank-rate{
-    gap: 20px;
-    height: 82px;
-    width: 180px;
-    margin-top: 58px;
+    gap: 1.25rem;
+    height: 5.125rem;
+    width: 11.25rem;
+    margin-top: 3.625em;
 }
 
 .rank-rate h2{
     font-weight: 700;
-    font-size: 30px;
+    font-size: 1.875em;
 }
 
 /* description-section */ 
 .content-description{
-    width: 1857px;
-    height: 1246px;
-    margin-top: 152px;
+    width: 116.063em;
+    height: 77.875rem;
+    /* margin-top: 9.5em; */
 } 
 
 .desc-head h1{
-    width: 758px;
-    height: 116px;
-    margin-top: 231px;
-    margin-left: 120px;
+    width: 47.375em;
+    /* height: 7.25em; */
+    margin-top: 2.438em;
+    margin-left: 7.5em;
     font-weight: 700;
-    font-size: 48px
+    font-size: 3em;
 }
 
 .border-section{
     border: 1px solid #D6D6D6;
-    width: 1016px;
-    margin-top: 100px;
-    margin-left: 304px;
+   width: 74rem;
+    margin-top: 5.25em;
+    margin-left: 19em;
 }
 
 .section-desc{
-    width: 1016px;
-    height: 100px;
-    margin-top: 25px;
-    margin-left: 304px;
+    width: 63.5rem;
+    height: 6.25em;
+    margin-top: 1.563em;
+    margin-left: 19em;
     /* background-color: aqua; */
     display: flex;
     align-items: top;
@@ -192,47 +192,47 @@
 }
 
 .left-sec h4{
-    font-size: 24px;
+    font-size: 1.5em;
 }
 
 .right-sec h3{
-    font-size: 18px;
+    font-size: 1.125em;
     font-weight: 400;
 }
 
 #explore-btn{
-    width: 240px;
-    height: 56px;
-    margin-top: 100px;
-    margin-left: 827px;
-    border-radius: 100px;
-    padding: 16px 32px;
+    width: 15rem;
+    height: 3.5em;
+    margin-top: 6.25em;
+    margin-left: 58.688em;
+    border-radius: 6.25em;
+    padding: 1em 2em;
     background-color: #EB6E46;
     color: white;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 0.938em;
     outline: none;
     border: none;
 }
 
 /* expert-section */
 #expert-content{
-    width: 1875px;
-    height: 550px;
-    margin-top: 2200px;
+    width: 117.188em;
+    height: 34.375rem;
+    margin-top: 137.5em;
 }
 
 .expert-section{
-    width: 1200px;
-    height: 552px;
-    margin-top: 30px;
-    margin-left: 300px;
+    width: 75rem;
+    height: 34.5rem;
+    margin-top: 1.875em;
+    margin-left: 18.75em;
 }
 
 .about-expert{
-    width: 1200px;
-    height: 400px;
-    margin-top: 40px;
+    width: 75rem;
+    height: 25rem;
+    margin-top: 2.5em;
     display: flex;
     gap: 31px;
     /* background-color: fuchsia; */
@@ -255,13 +255,13 @@
 }
 
 .expert-description{
-    margin-top: 20px;
+    margin-top: 1.25em;
 }
 
 .expert-description h5{
     font-weight: 700;
     font-size: 1.5em;
-    margin-bottom: 10px;
+    margin-bottom: 0.625em;
 }
 
 .expert-description span{
@@ -278,19 +278,19 @@
 /* question-section */
 
 #question-container{
-    width: 1875px;
-    height: 550px;
+    width: 117.188em;
+    height: 34.375rem;
 }
 
 .question-content{
-    width: 994px;
-    height: 598px;
-    margin-top: 80px;
-    margin-left:411px;
+    width: 62.125rem;
+    height: 37.375rem;
+    margin-top: 5em;
+    margin-left:25.688em;
 }
 
 .question-head{
-    margin-bottom: 80px;
+    margin-bottom: 5em;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -300,16 +300,16 @@
 
 
 .content-question-head{
-    width: 994px;
-    height: 90px;
+    width: 62.125rem;
+    height: 5.625rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .content-question{
-    width: 994px;
-    height: 24px;
+    width: 62.125rem;
+    height: 1.5em;
     display: flex;
     justify-content: space-between;
     color: #757B8A;
@@ -323,38 +323,37 @@
 /* contact-section */
 
 #contact-content{
-    width: 1875px;
-    height: 659px;
+    width: 117.188rem;
+    height: 41.188rem;
 }
 
 .contact-banner{
-    width: 1181px;
-    height: 450px;
+    width: 73.813rem;
+    height: 28.125rem;
     background-color: #EB6E46;
-    margin-left:370px;
-    border-radius: 16px;
-    margin-top: 150px;
+    margin-left:18.375em;
+    border-radius: 1em;
+    margin-top: 9.375em;
    
 }
 
 .contact-head{
-    width: 645px;
-    height: 306px;
-    margin-left:116px;
-    margin-top: 80px;
+    width: 40.313rem;
+    height: 19.125rem;
+    margin-left:7.25em;
+    margin-top: 5em;
     color: white;
-    padding-top:86px;
+    padding-top:5.375em;
 }
 
 .contact-logo{
-    width: 689px;
-    height: 548px;
-    margin-top: -321px;
-    margin-left:607px;
+    width: 43.063rem;
+    margin-top: -20.063rem;
+    margin-left:37.938rem;
 }
 
 .contact-head h1{
-    font-size: 48px;
+    font-size: 3em;
 }
 
 .contact-head span{
@@ -363,14 +362,14 @@
 }
 
 #btn-contact{
-    border-radius: 100px;
-    margin-top: 50px;
-    width: 182px;
-    height: 56px;
-    padding-top: 16px;
-    padding-left: 32px;
-    padding-right: 32px;
-    padding-bottom: 16px;
+    border-radius: 6.25em;
+    margin-top: 3.125em;
+    width: 11.375rem;
+    height: 3.5em;
+    padding-top: 1em;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1em;
     font-size: 14px;
     color: #EB6E46;
     font-weight: 700;

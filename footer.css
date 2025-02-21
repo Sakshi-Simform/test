@@ -6,9 +6,11 @@
 }
 
 .footer{
-    width: 1875px;
-    height: 620px;
+    width: 117.188rem;
+    height: 38.75rem;
     background-color: #FFF1ED;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .footer-main{
@@ -17,41 +19,41 @@
 }
 
 .start{
-    height: 116px;
-    width: 313px;
-    margin-top:80px;
-    margin-left: 120px;
+    height: 7.25rem;
+    width:19.563rem;
+    margin-top:5em;
+    margin-left: 7.5em;
     font-weight: 700;
     font-size: 1.5em;
 }
 
 .question{
-    margin-left: 120px;
-    width: 359px;
-    height: 48px;
-    margin-top: 50px;
+    margin-left: 7.5em;
+    width: 22.438rem;
+    height: 3rem;
+    margin-top: 3.125em;
     color: #878787;
 }
 
 .form{
-    margin-left: 120px;
-    margin-top: 50px;
-    margin-bottom: -39px;
+    margin-left: 7.5em;
+    margin-top: 3.125em;
+    margin-bottom: -2.438em;
     color: #878787;
 }
 
 .bottom{
     border-bottom: 1px solid #878787;
-    width: 353px;
-    margin-left: 120px;
+    width: 22.063rem;
+    margin-left: 7.5em;
 }
 
 .join-btn{
     background-color: #EB6E46;
-    border-radius: 100px;
-    padding: 10px 40px;
-    margin-left: 383px;
-    font-size: 18px;
+    border-radius: 6.25em;
+    padding: 0.625em 2.5em;
+    margin-left: 23.938em;
+    font-size: 1.125em;
     color: white;
     font-weight: 700;
     outline: none;
@@ -59,10 +61,10 @@
 }
 
 .question-arrow{
-    width: 401px;
-    height: 24px;
-    border-bottom: 40px;
-    margin-top: 20px;
+    width: 25.063rem;
+    height: 1.5em;
+    border-bottom: 2.5em;
+    margin-top: 1.25em;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -74,7 +76,7 @@
 }
 
 .border-line{
-    margin-top: 15px;
+    margin-top: 0.938em;
     border: 1px solid #878787;
     /* width: 401px; */
 }
@@ -82,15 +84,15 @@
 .right-section{
     display: flex;
     flex-direction: column;
-    margin-top:100px ;
-    margin-right: 100px;
+    margin-top:6.25em ;
+    margin-right: 6.25em;
 }
 
 #border-footer{
     border: 1px solid #808080;
-    width: 1200px;
-    margin-left: 160px;
-    margin-top: 105px;
+    width: 75rem;
+    margin-left: 10em;
+    margin-top: 6.563em;
 }
 
 .footer-end a{
@@ -100,23 +102,23 @@
 }
 
 .footer-end{
-    width: 1200px;
+    width: 75rem;
     height: 21px;
     display: flex;
-    margin-left: 140px;
-    margin-top: 40px;
-    gap: 25px;
+    margin-left: 8.75em;
+    margin-top: 2.5em;
+    gap: 1.563em;
 }
 
 .right-top h3{
-    font-size: 24px;
+    font-size: 1.5em;
     font-weight: 700;
 }
 
 .footer-link{
     display: flex;
     margin-left: 10cap;
-    gap: 20px;
+    gap: 1.25rem;
 }
 
 .link-end{
